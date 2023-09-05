@@ -6,7 +6,7 @@ using ConsoleAppDadosEmpresas.Data;
 using ConsoleAppDadosEmpresas.Inputs;
 
 Console.WriteLine(
-    "***** Carga de Dados utilizando .NET 7 + Linq2d + Bogus (dados fake) *****");
+    "***** Carga de Dados utilizando .NET 7 + LinqToDB + SQL Server + Bogus (dados fake) *****");
 Console.WriteLine();
 
 var country = InputHelper.GetAnswerCountry();
